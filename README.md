@@ -9,8 +9,7 @@ The dashboard provides insights into sales trends, item categories, outlet perfo
 ---
 ## Preview
 
-![<img width="1436" height="812" alt="image" src="https://github.com/user-attachments/assets/8bb14dda-9b69-4342-9930-fdf10727ce5d" />
-](dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
